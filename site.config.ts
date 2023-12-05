@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  E-mail: 'sivxiu@foxmail.com',
-  github: 'shileky',
+  Email: 'sivxiu@foxmail.com',
+  github: '',
   linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
